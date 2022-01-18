@@ -1,0 +1,9 @@
+Spine.png
+size:414,225
+filter:Linear,Linear
+pma:true
+Head
+bounds:2,22,331,201
+slice1
+bounds:335,2,221,77
+rotate:90
