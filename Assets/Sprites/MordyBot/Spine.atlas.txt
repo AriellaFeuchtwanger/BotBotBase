@@ -1,0 +1,27 @@
+Spine.png
+size:776,525
+filter:Linear,Linear
+pma:true
+Body
+bounds:542,271,232,252
+BottomHead
+bounds:2,2,420,112
+ChestPlate
+bounds:424,191,173,88
+rotate:90
+Ears
+bounds:2,366,538,157
+Head
+bounds:2,116,420,248
+offsets:0,0,420,249
+Left Arm
+bounds:514,132,128,137
+Right Arm
+bounds:644,132,127,137
+RightChestPlate
+bounds:424,16,173,88
+rotate:90
+Shadow
+bounds:514,8,101,32
+WrongChestPlate
+bounds:514,42,173,88

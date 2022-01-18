@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &373891986312431731
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 373891986312431733}
+  - component: {fileID: 373891986312431732}
+  m_Layer: 0
+  m_Name: BlueBotRobot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &373891986312431733
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 373891986312431731}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.12732452, y: 1.1052563, z: -0.19652744}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &373891986312431732
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 373891986312431731}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efc7b27ae458f4031b735aa4cfd2b275, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bot: {fileID: 0}
+  src: {fileID: 0}
+  oops: {fileID: 8300000, guid: f940fe9a3837e463ba9cb7899116373e, type: 3}
+  goodJob: {fileID: 8300000, guid: c71608b5127e24c3490520e5b184bedf, type: 3}
+  hooray: {fileID: 8300000, guid: dab95d1df971d4fa1818267240cf868b, type: 3}
+  instructions: {fileID: 0}
+  home: {fileID: 8300000, guid: b80465d14cb2a4923abd2b8539a3eee1, type: 3}
+  replay: {fileID: 8300000, guid: 98d66dee5172b493d917bcb9cf966ac1, type: 3}
+  endofgame: {fileID: 8300000, guid: 40fa72f9abee0415887eb8c4a2c675be, type: 3}
+  mainMenu: {fileID: 0}

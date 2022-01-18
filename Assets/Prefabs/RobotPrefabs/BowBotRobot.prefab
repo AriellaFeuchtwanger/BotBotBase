@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3738069866578169979
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3738069866578169977}
+  - component: {fileID: 3738069866578169976}
+  m_Layer: 0
+  m_Name: BowBotRobot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3738069866578169977
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3738069866578169979}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.12732452, y: 1.1052563, z: -0.19652744}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3738069866578169976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3738069866578169979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efc7b27ae458f4031b735aa4cfd2b275, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bot: {fileID: 0}
+  src: {fileID: 0}
+  oops: {fileID: 8300000, guid: fcda71bd1c6ce48919bfd62343cf2a14, type: 3}
+  goodJob: {fileID: 8300000, guid: 0a8b081a43ab2428da0dfaac2c5e92e6, type: 3}
+  hooray: {fileID: 8300000, guid: d7d150f4a702f4b5d976e1a3bc22dce7, type: 3}
+  instructions: {fileID: 0}
+  home: {fileID: 8300000, guid: 5f155409642194c598e0c90d00bcbbfc, type: 3}
+  replay: {fileID: 8300000, guid: 8720349de130a4703aaaec639d0263e1, type: 3}
+  endofgame: {fileID: 8300000, guid: f25f1b71391ae4a42b731eefbb75fb76, type: 3}
+  mainMenu: {fileID: 0}

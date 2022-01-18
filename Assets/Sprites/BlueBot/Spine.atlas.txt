@@ -1,0 +1,42 @@
+Spine.png
+size:630,501
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,349,150,420
+offsets:1,0,151,421
+rotate:90
+Frown
+bounds:345,193,52,30
+offsets:1,1,54,32
+Glasses
+bounds:2,2,248,87
+offsets:1,1,250,89
+Head
+bounds:2,91,257,256
+offsets:1,1,259,258
+Headphones
+bounds:424,180,319,204
+offsets:1,1,321,205
+rotate:90
+Left Arm
+bounds:261,2,176,176
+offsets:1,1,177,177
+Left Hand
+bounds:261,265,82,81
+offsets:0,1,82,82
+rotate:90
+Open Smile
+bounds:344,287,60,40
+offsets:1,1,62,42
+rotate:90
+Right Arm
+bounds:439,2,176,176
+offsets:1,1,178,177
+Right Hand
+bounds:261,182,82,81
+offsets:0,1,82,82
+path10122
+bounds:345,225,60,39
+offsets:1,1,62,41
+rotate:90

@@ -1,0 +1,38 @@
+Spine.png
+size:719,391
+filter:Linear,Linear
+pma:true
+Body
+bounds:450,205,144,184
+Bottom Dot
+bounds:503,38,110,43
+Head
+bounds:2,2,446,387
+Left Arm
+bounds:450,83,120,169
+rotate:90
+Left Hand
+bounds:621,152,66,65
+rotate:90
+Middle Dot
+bounds:615,13,78,34
+Right Arm
+bounds:596,220,119,169
+offsets:0,0,120,169
+Right Hand
+bounds:621,84,66,65
+rotate:90
+Shadow
+bounds:621,49,92,33
+Smile
+bounds:688,91,71,25
+offsets:2,3,75,30
+rotate:90
+Smile Closed
+bounds:503,4,71,32
+offsets:2,3,75,37
+Surprise
+bounds:450,30,51,51
+Top Dot
+bounds:688,164,54,29
+rotate:90
